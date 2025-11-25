@@ -1,0 +1,172 @@
+{
+  "name": "home",
+  "route": "home",
+  "components": [
+    {
+      "type": "header-sec",
+      "props": {
+        "logo": "https://ik.imagekit.io/flyde/Hirezy/Logo.png",
+        "navLinks": [
+          {
+            "name": "Home",
+            "href": "/"
+          },
+          {
+            "name": "About",
+            "href": "/about"
+          }
+        ],
+        "ctaText": "Start bro",
+        "ctaLink": "/get-started"
+      },
+      "children": []
+    },
+    {
+      "type": "grid-video",
+      "props": {
+        "label": "About",
+        "title": "Discover Hirezy",
+        "subtitle": "From intuitive, user-friendly tools to advanced integrations with the platforms you already use, Hirezy streamlines the hiring journey so your team can focus on what matters most: finding and securing the right talent.",
+        "centerTitle": "center",
+        "videoSrc": "https://ik.imagekit.io/a9uxeuyhx/5439079-uhd_3840_2160_25fps.mp4?updatedAt=1762022380391"
+      },
+      "children": []
+    },
+    {
+      "type": "why-choose",
+      "props": {
+        "title": "Why Choose Us?",
+        "label": "Benefits",
+        "description": "We make your hiring easier than ever.",
+        "buttonText": "Start Now",
+        "features": [
+          {
+            "icon": "https://ik.imagekit.io/icons/1.png",
+            "title": "Feature One",
+            "desc": "Description one"
+          },
+          {
+            "icon": "https://ik.imagekit.io/icons/2.png",
+            "title": "Feature Two",
+            "desc": "Description two"
+          }
+        ]
+      },
+      "children": []
+    },
+    {
+      "type": "feature-section",
+      "props": {
+        "label": "Our Features",
+        "title": "Why Choose Us",
+        "subtitle": "We provide amazing services",
+        "minColWidth": 280,
+        "gap": 24,
+        "columns": 3,
+        "centerTitle": false,
+        "desktopOrder": [
+          0,
+          1,
+          2
+        ],
+        "items": [
+          {
+            "heading": "Fast Performance",
+            "description": "Our app is blazing fast.",
+            "imageLink": "https://ik.imagekit.io/default1.png",
+            "textPosition": "bottom",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "heading": "Secure",
+            "description": "Your data is safe.",
+            "imageLink": "https://ik.imagekit.io/default2.png",
+            "textPosition": "bottom",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "heading": "24/7 Support",
+            "description": "We are always there for you.",
+            "imageLink": "https://ik.imagekit.io/default3.png",
+            "textPosition": "bottom",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ]
+      },
+      "children": []
+    },
+    {
+      "type": "section-header",
+      "props": {
+        "label": "Dynamic Label",
+        "title": "Dynamic Title",
+        "subtitle": "Dynamic Subtitle"
+      },
+      "children": []
+    },
+    {
+      "type": "grid-section",
+      "props": {
+        "columns": 3,
+        "gap": "24px",
+        "minColWidth": "300px",
+        "showHeader": true,
+        "label": "Dynamic Label",
+        "title": "Dynamic Title",
+        "subtitle": "Dynamic Subtitle"
+      },
+      "children": []
+    },
+    {
+      "type": "image-card",
+      "props": {
+        "heading": "Demo Heading",
+        "description": "Lorem Ipsum",
+        "imageLink": "https://ik.imagekit.io/flyde/Hirezy/Widget.png"
+      },
+      "children": []
+    },
+    {
+      "type": "image-card",
+      "props": {
+        "heading": "Demo Heading",
+        "description": "Lorem Ipsum",
+        "imageLink": "https://ik.imagekit.io/flyde/Hirezy/Widget.png"
+      },
+      "children": []
+    },
+    {
+      "type": "hero-section",
+      "props": {
+        "heading": "Your Hero Heading",
+        "description": "Your hero description goes here...",
+        "primaryBtnText": "Get Started",
+        "primaryBtnLink": "#",
+        "secondaryBtnText": "Learn More",
+        "secondaryBtnLink": "#",
+        "mainImage": "https://ik.imagekit.io/flyde/Hirezy/Widget.png",
+        "leftImage": "https://ik.imagekit.io/flyde/Hirezy/Widget%20(2).png",
+        "rightImage": "https://ik.imagekit.io/flyde/Hirezy/Widget%20(1).png"
+      },
+      "children": []
+    },
+    {
+      "type": "hero-section",
+      "props": {
+        "heading": "Your Hero Heading",
+        "description": "Your hero description goes here...",
+        "primaryBtnText": "Get Started",
+        "primaryBtnLink": "#",
+        "secondaryBtnText": "Learn More",
+        "secondaryBtnLink": "#",
+        "mainImage": "https://ik.imagekit.io/flyde/Hirezy/Widget.png",
+        "leftImage": "https://ik.imagekit.io/flyde/Hirezy/Widget%20(2).png",
+        "rightImage": "https://ik.imagekit.io/flyde/Hirezy/Widget%20(1).png"
+      },
+      "children": []
+    }
+  ]
+}
